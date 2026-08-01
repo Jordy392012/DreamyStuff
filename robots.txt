@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# XML Sitemap Link
+Sitemap: https://dreamystuff.com/sitemap.xml
