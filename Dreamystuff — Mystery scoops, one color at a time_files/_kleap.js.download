@@ -1,0 +1,7 @@
+// Kleap Configuration - Auto-generated
+window._kleap = {
+  id: "50142",
+  badge: true,
+  analytics: "c0c7e01c-94fa-44e0-bce1-265f27bb074c",
+  umami_url: "https://analytics-v2.kleap.co/"
+};
